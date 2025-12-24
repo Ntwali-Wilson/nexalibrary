@@ -1,7 +1,7 @@
 {
   "version": "1.2.0",
   "release_date": "2025-12-25",
-  "download_url": "https://github.com/Ntwali-Wilson/nexalibrary/raw/refs/heads/main/simple.zip",
+  "download_url": "https://github.com/Ntwali-Wilson/nexalibrary/blob/main/simple.zip",
   "changelog": [
     "Added automated student leaderboard",
     "Fixed indentation errors in routes.py",
