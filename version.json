@@ -1,12 +1,11 @@
 {
-  "version": "1.3.0",
+  "version": "1.4.0",
   "release_date": "2025-12-25",
-  "download_url": "https://github.com/YourUsername/YourRepo/archive/refs/tags/v1.1.0.zip",
+  "download_url": "https://github.com/Ntwali-Wilson/nexalibrary/main/library.zip",
   "changelog": [
     "Added automated student leaderboard",
-    "Fixed indentation errors in routes.py",
-    "Improved mobile money payment stability"
+    "Yhe settings is updated for now"
   ],
-  "is_critical": false,
+  "is_critical": True,
   "min_required_version": "1.0.0"
 }
