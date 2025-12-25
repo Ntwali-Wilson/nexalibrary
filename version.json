@@ -6,6 +6,6 @@
     "Added automated student leaderboard",
     "Yhe settings is updated for now"
   ],
-  "is_critical": True,
+  "is_critical": true,
   "min_required_version": "1.0.0"
 }
