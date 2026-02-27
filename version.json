@@ -1,12 +1,13 @@
 {
-  "version": "1.5.1",
+  "version": "1.2.1",
   "release_date": "2025-12-25",
   "download_url": "https://github.com/Ntwali-Wilson/nexalibrary/raw/refs/heads/main/ok.zip",
   "changelog": [
     "Edited the settings page a little bit ",
-    "Updated the bortower page "
+    "Updated the bortower page ",
+    "no worry it is fine"
   ],
-  "is_critical": false,
+  "is_critical": true,
   "min_required_version": "1.0.0",
   "type":"security"
 }
