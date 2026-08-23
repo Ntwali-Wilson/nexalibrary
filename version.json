@@ -3,9 +3,9 @@
   "release_date": "23-08-2026",
   "download_url": "https://api.github.com/repos/Ntwali-Wilson/Ooh/contents/ok.zip",
   "changelog": [
-    "The changes are for testing and the update logic ",
+    "The changes are for testing and the update logic "
   ],
   "is_critical": true,
   "min_required_version": "1.1.0",
-  "type":"security"
+  "type": "security"
 }
