@@ -1,13 +1,11 @@
 {
-  "version": "1.0.0",
-  "release_date": "15-08-2026",
+  "version": "1.1.0",
+  "release_date": "23-08-2026",
   "download_url": "https://github.com/Ntwali-Wilson/nexalibrary/raw/refs/heads/main/ok.zip",
   "changelog": [
-    "No change at all! ",
-    "We are there for you ",
-    "no worry it is fine"
+    "The changes are for testing and the update logic ",
   ],
   "is_critical": true,
-  "min_required_version": "1.0.0",
+  "min_required_version": "1.1.0",
   "type":"security"
 }
